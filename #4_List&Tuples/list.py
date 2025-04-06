@@ -1,0 +1,1 @@
+friend = ["Apple","Orange", 5, 234.5, "Ani", "rohan"]
